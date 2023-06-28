@@ -1,0 +1,4 @@
+LIBRARY	"UltimateCombat64"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
